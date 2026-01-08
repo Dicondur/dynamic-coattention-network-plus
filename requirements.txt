@@ -33,7 +33,7 @@ tensorflow-gpu==1.10.0
 tensorflow-tensorboard==0.4.0rc3
 termcolor==1.1.0
 tqdm==4.19.2
-Werkzeug==0.14.1
+Werkzeug==3.1.5
 wincertstore==0.2
 wrapt==1.10.11
 zope.interface==4.4.3
